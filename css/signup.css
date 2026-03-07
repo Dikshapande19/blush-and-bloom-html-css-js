@@ -170,7 +170,7 @@ body {
 }
 
 
-@media (max-width: 768px) {
+(max-width: 768px) {
 
     .footer-container {
         flex-direction: column;
