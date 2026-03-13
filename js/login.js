@@ -25,12 +25,7 @@ function validateLogin(){
     }
 
     error.style.color = "green";
-    error.innerText = "Login Successful!";
-
-<<<<<<< HEAD
-   
-=======
->>>>>>> 9a95f64f1baf25b7d53a0a3d0d8478ddf4243bca
+    error.innerText = "Login Successfully !!"; 
     setTimeout(function(){
         window.location.href = "../index.html";
     },1000);
@@ -56,7 +51,7 @@ if(email === "" || password === ""){
     alert("Please enter Email and Password");
 }
 else{
-    alert("Login Successful 🌸");
+    alert("Login Successfully !!");
     window.location.href = "../index.html";
 }
 
