@@ -85,11 +85,6 @@
     background-color: #fab9d4;
 }
 
-.team-section p{
-    font-size: 20px;
-    text-align: center;
-    gap: 10px;
-}
 
 @media (max-width:600px){
     
